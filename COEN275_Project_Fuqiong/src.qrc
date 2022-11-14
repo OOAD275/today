@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/database">
+        <file>ray2.db</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>addBook.png</file>
+        <file>book.png</file>
+        <file>book1.png</file>
+        <file>error.png</file>
+        <file>favorite.png</file>
+        <file>favorite1.png</file>
+        <file>history.png</file>
+        <file>laptop.jpg</file>
+        <file>login1.png</file>
+        <file>login2.png</file>
+        <file>login5.png</file>
+        <file>login6.png</file>
+        <file>logout.png</file>
+        <file>pay.jpg</file>
+        <file>person.png</file>
+        <file>profile.png</file>
+        <file>return.png</file>
+        <file>save.png</file>
+        <file>search.jpg</file>
+        <file>search.png</file>
+        <file>search_1.png</file>
+        <file>search1.png</file>
+        <file>signup.jpg</file>
+        <file>signup.png</file>
+        <file>sucess.png</file>
+        <file>like.png</file>
+    </qresource>
+</RCC>
